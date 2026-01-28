@@ -25,7 +25,7 @@ class HelloControllerTest {
     }
 
     @Test
-    public void helloㅇ새가_리턴된다() throws Exception {
+    public void helloDto가_리턴된다() throws Exception {
         String name = "hello";
         int amount = 1000;
 
